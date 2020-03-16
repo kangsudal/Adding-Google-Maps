@@ -13,6 +13,6 @@ You'll need to enable google maps services in a google cloud platform project an
 ![photo_2020-03-15_20-43-10](https://user-images.githubusercontent.com/32862869/76700719-b0f7a480-66fd-11ea-97c6-990a004d4c45.jpg)
 
 ## What I learn
-Display a Google Map
-Retrieve map data from a web service
-Display this data as markers on the Map
+Display a Google Map    
+Retrieve map data from a web service    
+Display this data as markers on the Map    
