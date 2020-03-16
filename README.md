@@ -14,3 +14,4 @@ You'll need to enable google maps services in a google cloud platform project an
 3 - 앞으로 공부하고싶은것 
   flutter how to hide api keys
   https://github.com/flutter/flutter/issues/20735
+  https://medium.com/@sokrato/storing-your-secret-keys-in-flutter-c0b9af1c0f69
